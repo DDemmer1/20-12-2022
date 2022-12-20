@@ -12,6 +12,13 @@ import javax.swing.JLabel;
 
 public class Renderer {
 
+	
+	/**
+	 * This method renders a @interface Drawable Object on the screen
+	 * 
+	 * 
+	 * @param drawable
+	 */
 	public void render(Drawable drawable) {
 		
 		try {
