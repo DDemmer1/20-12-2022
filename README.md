@@ -22,12 +22,12 @@ Erstellt folgende ```abstract``` Klassen mit den darunter stehenden Attributen
  
 - Erstellt ein ```interface Drawable``` mit einer Methode ```public String getImgUrl()```
 - Fügt dieses Interface ```Glumanda``` und ```Trank``` hinzu
-- implementiert die ```public String getImgUrl()``` in ```Glumanda``` und ```Trank```
+- implementiert die Methode ```public String getImgUrl()``` in ```Glumanda``` und ```Trank```
 
  
  ---------------
  
- - Erzeugt ein ```Glumanda``` und einen ```Trank``` Objekt in der ```main-Methode```
+ - Erzeugt ein ```Glumanda``` und ein ```Trank```-Objekt in der ```main-Methode```
  - Erzeugt einen ```Renderer``` in der ```main-Methode```
  - Übergebt der Methode ```renderer(Drawable drawabel)``` aus dem ```Renderer``` das ```Glumanda``` und den ```Trank```
  - Führt das Programm aus
