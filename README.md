@@ -32,6 +32,10 @@ Erstellt folgende ```abstract``` Klassen mit den darunter stehenden Attributen
  - Erzeugt einen ```Renderer``` in der ```main-Methode```
  - Übergebt der Methode ```renderer(Drawable drawabel)``` aus dem ```Renderer``` das ```Glumanda``` und den ```Pokeball```
  - Führt das Programm aus
+ 
+ 
+   ``![image text](https://github.com/DDemmer1/20-12-2022/blob/main/img/uml.jpg)``
+
 
 
   ### ℹ️ Resourcen:
