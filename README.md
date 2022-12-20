@@ -8,13 +8,13 @@ WS 22 - Vererbung, Abstrakte Klassen, Interfaces
   - ```int hp```
 
 ```Item```
- -```int price```
+ - ```int price```
  
 ```Drawable```
- -```public String getImgUrl()```
+ - ```public String getImgUrl()```
  
 ```Renderer```
- -```public void render(Drawable drawabel)
+ - ```public void render(Drawable drawabel)```
 
 
   ### ℹ️ Resourcen:
