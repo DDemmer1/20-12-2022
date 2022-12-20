@@ -15,21 +15,22 @@ Erstellt folgende ```abstract``` Klassen mit den darunter stehenden Attributen
  
  ------------------
  
-- Erstellt eine Klasse  ```Trank``` und lasst sie von ```class Item``` alle Eigenschaften erben 
+- Erstellt eine Klasse  ```Pokeball``` und lasst sie von ```class Item``` alle Eigenschaften erben 
 - Erstellt eine Klasse  ```Glumanda``` und lasst sie von ```class Pokemom``` alle Eigenschaften erben
 
  ----------------
  
 - Erstellt ein ```interface Drawable``` mit einer Methode ```public String getImgUrl()```
-- Fügt dieses Interface ```Glumanda``` und ```Trank``` hinzu
-- implementiert die Methode ```public String getImgUrl()``` in ```Glumanda``` und ```Trank```
+- Fügt dieses Interface ```Glumanda``` und ```Pokeball``` hinzu
+- implementiert die Methode ```public String getImgUrl()``` in ```Glumanda``` und ```Pokeball```
+- die Bild URLs lauten "img/glumanda.png" und "img/pokeball.jpg"
 
  
  ---------------
  
- - Erzeugt ein ```Glumanda``` und ein ```Trank```-Objekt in der ```main-Methode```
+ - Erzeugt ein ```Glumanda``` und ein ```Pokeball```-Objekt in der ```main-Methode```
  - Erzeugt einen ```Renderer``` in der ```main-Methode```
- - Übergebt der Methode ```renderer(Drawable drawabel)``` aus dem ```Renderer``` das ```Glumanda``` und den ```Trank```
+ - Übergebt der Methode ```renderer(Drawable drawabel)``` aus dem ```Renderer``` das ```Glumanda``` und den ```Pokeball```
  - Führt das Programm aus
 
 
