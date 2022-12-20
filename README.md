@@ -34,7 +34,7 @@ Erstellt folgende ```abstract``` Klassen mit den darunter stehenden Attributen
  - Führt das Programm aus
  
  
-   ``![image text](https://github.com/DDemmer1/20-12-2022/blob/main/img/uml.jpg)``
+   ![image text](https://github.com/DDemmer1/20-12-2022/blob/main/img/uml.jpg)
 
 
 
